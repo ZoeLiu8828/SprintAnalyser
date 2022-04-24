@@ -1,5 +1,5 @@
 modules:
-  jira:issuePanel:
+  jira:projectPage:
     - key: velocity-predictor-hello-world-panel
       function: main
       title: Forge App for Velocity Predictor
