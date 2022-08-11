@@ -9,6 +9,7 @@ import './App.css';
 
 
 const App = () => {
+  
   return (
     <div>
       <div className='tables'>
@@ -25,7 +26,6 @@ const App = () => {
           <BarChart />
         </div>
       </div>
-      
     </div>
     )
 }
