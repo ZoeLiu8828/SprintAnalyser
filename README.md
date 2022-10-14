@@ -1,7 +1,5 @@
 # Velocity Difference Predictor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Quick start
 
 1. Run `forge login` to login to the CLI.
