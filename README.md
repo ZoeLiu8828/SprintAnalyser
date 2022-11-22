@@ -1,4 +1,4 @@
-# Velocity Difference Predictor
+# SprintAnalyser
 
 ## Requirements
 
